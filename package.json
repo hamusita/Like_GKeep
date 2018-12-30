@@ -1,5 +1,5 @@
 {
-  "name": "vue_electron",
+  "name": "Like_GKeep",
   "version": "0.0.1",
   "author": "arasan01 <sinzan062871@gmail.com>",
   "description": "An electron-vue project",
@@ -22,8 +22,8 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "vue_electron",
-    "appId": "com.arasan01.vue_electron",
+    "productName": "Like_GKeep",
+    "appId": "com.arasan01.Like_GKeep",
     "directories": {
       "output": "build"
     },
