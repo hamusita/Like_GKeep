@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'Like_GKeep'
+    name: "Like_GKeep"
   }
 </script>
 
