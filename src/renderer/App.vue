@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'vue_electron'
+    name: 'Like_GKeep'
   }
 </script>
 
