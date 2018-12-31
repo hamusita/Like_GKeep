@@ -1,0 +1,22 @@
+{
+  "commands": [
+    {
+      "command": "workbench.action.tasks.runTask",
+      "arguments": ["run-dev"],
+      "text": "run:dev",
+      "color": "EEBBAA"
+    },
+    {
+      "command": "workbench.action.tasks.runTask",
+      "arguments": ["lint"],
+      "text": "lint",
+      "color": "DDEE88"
+    },
+    {
+      "command": "workbench.action.tasks.runTask",
+      "arguments": ["lint-fix"],
+      "text": "lint:fix",
+      "color": "CCFFCC"
+    }
+  ]
+}

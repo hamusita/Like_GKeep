@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "lint-fix",
+      "type": "shell",
+      "command": "yarn run lint:fix",
+      "problemMatcher": []
+    },
+    {
+      "label": "lint",
+      "type": "shell",
+      "command": "yarn run lint",
+      "problemMatcher": []
+    },
+    {
+      "label": "run-dev",
+      "type": "shell",
+      "command": "yarn run dev",
+      "problemMatcher": []
+    }
+  ]
+}
